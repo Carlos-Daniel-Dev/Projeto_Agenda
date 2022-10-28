@@ -1,10 +1,10 @@
 # Agenda PHP (CRUD)
 
 ## Techs:
-### - PHP
-### - MYSQL
-### - BOOTSTRAP
-### - FONT-AWESOME
+#### - PHP
+#### - MYSQL
+#### - BOOTSTRAP
+#### - FONT-AWESOME
 
 ## Images:
 
